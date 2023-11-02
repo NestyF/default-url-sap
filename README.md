@@ -1,6 +1,6 @@
 # Descripción
 
-Este script verifica la disponibilidad de URLs proporcionadas por el usuario y muestra el resultado en colores (esta pensado especificamente para verificar URLS por defecto y con información sencible de SAP)
+Este script verifica la disponibilidad de URLs proporcionadas por el usuario y muestra el resultado en colores (esta pensado especificamente para verificar URLS por defecto y con información sensible de SAP)
 
 ## Funcionalidad
 
