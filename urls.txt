@@ -1,262 +1,424 @@
- http://urlsap:8001/sap/admin 
- http://urlsap:8001/sap/admin/public/index.html 
- http://urlsap:8001/sap/ap 
- http://urlsap:8001/sap/bc/abap/demo 
- http://urlsap:8001/sap/bc/abap/demo_apc 
- http://urlsap:8001/sap/bc/abap/demo_apc_pcp 
- http://urlsap:8001/sap/bc/abap/demo_mime 
- http://urlsap:8001/sap/bc/abap/demo_post 
- http://urlsap:8001/sap/bc/abap/docu 
- http://urlsap:8001/sap/bc/abap/toolsdocu 
- http://urlsap:8001/sap/bc/adt 
- http://urlsap:8001/sap/bc/apc/sap/apc_tcp_test_stateful 
- http://urlsap:8001/sap/bc/apc/sap/apc_tcp_test_stateless 
- http://urlsap:8001/sap/bc/apc_test/abap_online_com 
- http://urlsap:8001/sap/bc/apc_test/file 
- http://urlsap:8001/sap/bc/apc_test/ping 
- http://urlsap:8001/sap/bc/apc_test/ping_ping 
- http://urlsap:8001/sap/bc/apc_test/ping_pong/game 
- http://urlsap:8001/sap/bc/apc_test/ping_pong/player 
- http://urlsap:8001/sap/bc/apc_test/sapui5_test 
- http://urlsap:8001/sap/bc/apc_test/sohbat 
- http://urlsap:8001/sap/bc/apc_test/system_info 
- http://urlsap:8001/sap/bc/batch/event_raise 
- http://urlsap:8001/sap/bc/bcs/sms 
- http://urlsap:8001/sap/bc/bsp/ 
- http://urlsap:8001/sap/bc/bsp/esh_os_service/favicon.gif 
- http://urlsap:8001/sap/bc/bsp/ipro/editor 
- http://urlsap:8001/sap/bc/bsp/sap 
- http://urlsap:8001/sap/bc/bsp/sap/alertinbox 
- http://urlsap:8001/sap/bc/bsp/sap/bsp_dlc_frcmp 
- http://urlsap:8001/sap/bc/bsp/sap/bsp_veri 
- http://urlsap:8001/sap/bc/bsp/sap/bsp_verificatio 
- http://urlsap:8001/sap/bc/bsp/sap/bsp_wd_base 
- http://urlsap:8001/sap/bc/bsp/sap/bspwd_basics 
- http://urlsap:8001/sap/bc/bsp/sap/certmap 
- http://urlsap:8001/sap/bc/bsp/sap/certreq 
- http://urlsap:8001/sap/bc/bsp/sap/crm_bsp_frame 
- http://urlsap:8001/sap/bc/bsp/sap/crmcmp_bpident/ 
- http://urlsap:8001/sap/bc/bsp/sap/crmcmp_brfcase 
- http://urlsap:8001/sap/bc/bsp/sap/crmcmp_hdr 
- http://urlsap:8001/sap/bc/bsp/sap/crmcmp_hdr_std 
- http://urlsap:8001/sap/bc/bsp/sap/crmcmp_ic_frame 
- http://urlsap:8001/sap/bc/bsp/sap/crm_ic_ise/editor 
- http://urlsap:8001/sap/bc/bsp/sap/crm_thtmlb_util 
- http://urlsap:8001/sap/bc/bsp/sap/crm_ui_frame 
- http://urlsap:8001/sap/bc/bsp/sap/crm_ui_start 
- http://urlsap:8001/sap/bc/bsp/sap/esh_sapgui_exe 
- http://urlsap:8001/sap/bc/bsp/sap/esh_sap_link 
- http://urlsap:8001/sap/bc/bsp/sap/graph_bsp_test 
- http://urlsap:8001/sap/bc/bsp/sap/graph_bsp_test/Mimes 
- http://urlsap:8001/sap/bc/bsp/sap/gsbirp 
- http://urlsap:8001/sap/bc/bsp/sap/hrrcf_wd_dovru 
- http://urlsap:8001/sap/bc/bsp/sap/htmlb_samples 
- http://urlsap:8001/sap/bc/bsp/sap/iccmp_bp_cnfirm 
- http://urlsap:8001/sap/bc/bsp/sap/iccmp_hdr_cntnr 
- http://urlsap:8001/sap/bc/bsp/sap/iccmp_hdr_cntnt 
- http://urlsap:8001/sap/bc/bsp/sap/iccmp_header 
- http://urlsap:8001/sap/bc/bsp/sap/iccmp_ssc_ll/ 
- http://urlsap:8001/sap/bc/bsp/sap/ic_frw_notify 
- http://urlsap:8001/sap/bc/bsp/sap/it00 
- http://urlsap:8001/sap/bc/bsp/sap/it00/default.htm 
- http://urlsap:8001/sap/bc/bsp/sap/it00/http_client.htm 
- http://urlsap:8001/sap/bc/bsp/sap/it00/http_client_xml.htm 
- http://urlsap:8001/sap/bc/bsp/sap/public/bc 
- http://urlsap:8001/sap/bc/bsp/sap/public/FAA 
- http://urlsap:8001/sap/bc/bsp/sap/public/graphics 
- http://urlsap:8001/sap/bc/bsp/sap/public/sem 
- http://urlsap:8001/sap/bc/bsp/sap/sam_demo 
- http://urlsap:8001/sap/bc/bsp/sap/sam_notifying 
- http://urlsap:8001/sap/bc/bsp/sap/sam_sess_queue 
- http://urlsap:8001/sap/bc/bsp/sap/sbspext_htmlb 
- http://urlsap:8001/sap/bc/bsp/sap/sbspext_xhtmlb 
- http://urlsap:8001/sap/bc/bsp/sap/spi_admin 
- http://urlsap:8001/sap/bc/bsp/sap/spi_monitor 
- http://urlsap:8001/sap/bc/bsp/sapsrm 
- http://urlsap:8001/sap/bc/bsp/sapsrm/bsp_dhtml_apple 
- http://urlsap:8001/sap/bc/bsp/sapsrm/bsp_java_applet 
- http://urlsap:8001/sap/bc/bsp/sapsrm/call_sig_ctrl 
- http://urlsap:8001/sap/bc/bsp/sapsrm/ctlg_wrapper 
- http://urlsap:8001/sap/bc/bsp/sap/sxms_alertrules 
- http://urlsap:8001/sap/bc/bsp/sap/system 
- http://urlsap:8001/sap/bc/bsp/sap/thtmlb_scripts 
- http://urlsap:8001/sap/bc/bsp/sap/thtmlb_styles 
- http://urlsap:8001/sap/bc/bsp/sap/uicmp_ltx 
- http://urlsap:8001/sap/bc/bsp/sap/xmb_bsp_log 
- http://urlsap:8001/sap/bc/contentserver 
- http://urlsap:8001/sap/bc/docu 
- http://urlsap:8001/sap/bc/echo 
- http://urlsap:8001/sap/bc/echo 
- http://urlsap:8001/sap/bc/error 
- http://urlsap:8001/sap/bc/error 
- http://urlsap:8001/sap/bc/FormToRfc 
- http://urlsap:8001/sap/bc/FormToRfc/soap 
- http://urlsap:8001/sap/bc/graphics/net 
- http://urlsap:8001/sap/bc/gui/sap/its/CERTREQ 
- http://urlsap:8001/sap/bc/gui/sap/its/webgui 
- http://urlsap:8001/sap/bc/IDoc_XML 
- http://urlsap:8001/sap/bc/MIDSD 
- http://urlsap:8001/sap/bc/Mi_host_http 
- http://urlsap:8001/sap/bc/MJC 
- http://urlsap:8001/sap/bc/MJC/ 
- http://urlsap:8001/sap/bc/MJC/mi_host 
- http://urlsap:8001/sap/bc/MJC/mi_mds 
- http://urlsap:8001/sap/bc/MJC/mi_service 
- http://urlsap:8001/sap/bc/MJC/mi_services 
- http://urlsap:8001/sap/bc/MY_NEW_SERV99 
- http://urlsap:8001/sap/bc/ping 
- http://urlsap:8001/sap/bc/soap/ici 
- http://urlsap:8001/sap/bc/soap/rfc 
- http://urlsap:8001/sap/bc/srt/IDoc 
- http://urlsap:8001/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html? 
- http://urlsap:8001/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?saml2=disabled 
- http://urlsap:8001/sap/bc/wdvd 
- http://urlsap:8001/sap/bc/wdvd/ 
- http://urlsap:8001/sap/bc/webdynpro 
- http://urlsap:8001/sap/bc/webdynpro/sap/apb_launchpad 
- http://urlsap:8001/sap/bc/webdynpro/sap/apb_launchpad_nwbc 
- http://urlsap:8001/sap/bc/webdynpro/sap/apb_lpd_light_start 
- http://urlsap:8001/sap/bc/webdynpro/sap/apb_lpd_start_url 
- http://urlsap:8001/sap/bc/webdynpro/sap/application_exit 
- http://urlsap:8001/sap/bc/webdynpro/sap/appl_log_trc_viewer 
- http://urlsap:8001/sap/bc/webdynpro/sap/appl_soap_management 
- http://urlsap:8001/sap/bc/webdynpro/sap/ccmsbi_wast_extr_testenv 
- http://urlsap:8001/sap/bc/webdynpro/sap/cnp_light_test 
- http://urlsap:8001/sap/bc/webdynpro/sap/configure_application 
- http://urlsap:8001/sap/bc/webdynpro/sap/configure_component 
- http://urlsap:8001/sap/bc/webdynpro/sap/esh_admin_ui_component 
- http://urlsap:8001/sap/bc/webdynpro/sap/esh_adm_smoketest_ui 
- http://urlsap:8001/sap/bc/webdynpro/sap/esh_eng_modelling 
- http://urlsap:8001/sap/bc/webdynpro/sap/esh_search_results.ui 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_act_cnf_dovr_ui 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_act_cnf_ind_ext 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_act_cnf_ind_int 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_appls 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_applwizard 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_candidate_registration 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_candidate_verification 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_dataoverview 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_draft_applications 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_new_verif_mail 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_posting_apply 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_psett_ext 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_psett_int 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_pw_via_email_extern 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_pw_via_email_intern 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_qa_mss 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_refcode_srch 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_refcode_srch_int 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_req_assess 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_requi_monitor 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_substitution_admin 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_substitution_manager 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_tp_assess 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_unregemp_job_search 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_unreg_job_search 
- http://urlsap:8001/sap/bc/webdynpro/sap/hrrcf_a_unverified_cand 
- http://urlsap:8001/sap/bc/webdynpro/sap/sh_adm_smoketest_files 
- http://urlsap:8001/sap/bc/webdynpro/sap/wd_analyze_config_appl 
- http://urlsap:8001/sap/bc/webdynpro/sap/wd_analyze_config_comp 
- http://urlsap:8001/sap/bc/webdynpro/sap/wd_analyze_config_user 
- http://urlsap:8001/sap/bc/webdynpro/sap/wdhc_application 
- http://urlsap:8001/sap/bc/webdynpro/sap/WDR_TEST_ADOBE 
- http://urlsap:8001/sap/bc/webdynpro/sap/WDR_TEST_EVENTS 
- http://urlsap:8001/sap/bc/webdynpro/sap/wdr_test_popups_rt 
- http://urlsap:8001/sap/bc/webdynpro/sap/WDR_TEST_TABLE 
- http://urlsap:8001/sap/bc/webdynpro/sap/wdr_test_ui_elements 
- http://urlsap:8001/sap/bc/webdynpro/sap/WDR_TEST_WINDOW_ERROR 
- http://urlsap:8001/sap/bc/webrfc 
- http://urlsap:8001/sap/bc/workflow/shortcut 
- http://urlsap:8001/sap/bc/xrfc_test 
- http://urlsap:8001/sap/BSSP_SP_MAPS 
- http://urlsap:8001/sap/es/atk 
- http://urlsap:8001/sap/es/cockpit 
- http://urlsap:8001/sap/es/getdocument 
- http://urlsap:8001/sap/es/opensearch 
- http://urlsap:8001/sap/es/opensearch/description 
- http://urlsap:8001/sap/es/opensearch/list 
- http://urlsap:8001/sap/es/opensearch/search 
- http://urlsap:8001/sap/es/redirect 
- http://urlsap:8001/sap/es/saplink 
- http://urlsap:8001/sap/es/search 
- http://urlsap:8001/sap/gw 
- http://urlsap:8001/sap/gw/bep 
- http://urlsap:8001/sap/gw/jsonrpc 
- http://urlsap:8001/sap/public/bc/abap 
- http://urlsap:8001/sap/public/bc/abap/docu 
- http://urlsap:8001/sap/public/bc/abap/mime_demo 
- http://urlsap:8001/sap/public/bc/abap/toolsdocu 
- http://urlsap:8001/sap/public/bc/AR_NEWS_REDRCT 
- http://urlsap:8001/sap/public/bc/bpo 
- http://urlsap:8001/sap/public/bc/bsp 
- http://urlsap:8001/sap/public/bc/crm_cic_ipaddr 
- http://urlsap:8001/sap/public/bc/crm_cic_polling 
- http://urlsap:8001/sap/public/bc/dashboard 
- http://urlsap:8001/sap/public/bc/icf/logoff 
- http://urlsap:8001/sap/public/bc/icons 
- http://urlsap:8001/sap/public/bc/icons_rtl 
- http://urlsap:8001/sap/public/bc/its/designs 
- http://urlsap:8001/sap/public/bc/its/img 
- http://urlsap:8001/sap/public/bc/its/mimes 
- http://urlsap:8001/sap/public/bc/its/mimes/system/SL/page/hourglass.html 
- http://urlsap:8001/sap/public/bc/its/mobile/rfid 
- http://urlsap:8001/sap/public/bc/its/scripts 
- http://urlsap:8001/sap/public/bc/jsm 
- http://urlsap:8001/sap/public/bc/NWDEMO_MODEL 
- http://urlsap:8001/sap/public/bc/NW_ESH_TST_AUTO 
- http://urlsap:8001/sap/public/bc/pictograms 
- http://urlsap:8001/sap/public/bc/qgm 
- http://urlsap:8001/sap/public/bc/sec 
- http://urlsap:8001/sap/public/bc/sec/cdc_ext_service 
- http://urlsap:8001/sap/public/bc/sec/oauth2 
- http://urlsap:8001/sap/public/bc/sec/oauth2/client 
- http://urlsap:8001/sap/public/bc/sec/oauth2/client/redirect 
- http://urlsap:8001/sap/public/bc/sec/saml2 
- http://urlsap:8001/sap/public/bc/themes 
- http://urlsap:8001/sap/public/bc/tmp_wd_mimes 
- http://urlsap:8001/sap/public/bc/ui2 
- http://urlsap:8001/sap/public/bc/ui5_ui5 
- http://urlsap:8001/sap/public/bc/ui5_ui5/ILMRWC 
- http://urlsap:8001/sap/public/bc/uics/whitelist 
- http://urlsap:8001/sap/public/bc/ur 
- http://urlsap:8001/sap/public/bc/wdtracetool 
- http://urlsap:8001/sap/public/bc/webdynpro/adobechallenge 
- http://urlsap:8001/sap/public/bc/webdynpro/adobeChallenge 
- http://urlsap:8001/sap/public/bc/webdynpro/Polling 
- http://urlsap:8001/sap/public/bc/webdynpro/viewdesigner 
- http://urlsap:8001/sap/public/bc/webdynpro/ViewDesigner 
- http://urlsap:8001/sap/public/bc/webicons 
- http://urlsap:8001/sap/public/bc/workflow 
- http://urlsap:8001/sap/public/bc/workflow/shortcut 
- http://urlsap:8001/sap/public/bsp/sap/htmlb 
- http://urlsap:8001/sap/public/bsp/sap/public/bc 
- http://urlsap:8001/sap/public/bsp/sap/public/graphics 
- http://urlsap:8001/sap/public/bsp/sap/public/graphics/jnet_handler 
- http://urlsap:8001/sap/public/bsp/sap/public/graphics/mimes 
- http://urlsap:8001/sap/public/bsp/sap/public/ISE 
- http://urlsap:8001/sap/public/bsp/sap/system 
- http://urlsap:8001/sap/public/BusinessSuite 
- http://urlsap:8001/sap/public/BusinessSuite/BCV 
- http://urlsap:8001/sap/public/BusinessSuite/BSSP 
- http://urlsap:8001/sap/public/BusinessSuite/CBESH_ICONS 
- http://urlsap:8001/sap/public/BusinessSuite/CloCo 
- http://urlsap:8001/sap/public/BusinessSuite/TM 
- http://urlsap:8001/sap/public/BusinessSuite/TM/FlashIslands 
- http://urlsap:8001/sap/public/BusinessSuite/TM/Icons 
- http://urlsap:8001/sap/public/BusinessSuite/TM/Icons_rtl 
- http://urlsap:8001/sap/public/E2EALERT 
- http://urlsap:8001/sap/public/ES 
- http://urlsap:8001/sap/public/icf_check 
- http://urlsap:8001/sap/public/icf_info 
- http://urlsap:8001/sap/public/icf_info/icr_groups 
- http://urlsap:8001/sap/public/icf_info/icr_urlprefix 
- http://urlsap:8001/sap/public/icf_info/logon_groups 
- http://urlsap:8001/sap/public/icf_info/urlprefix 
- http://urlsap:8001/sap/public/icman 
- http://urlsap:8001/sap/public/icman/ping 
- http://urlsap:8001/sap/public/info 
- http://urlsap:8001/sap/public/myssocntl 
- http://urlsap:8001/sap/public/opu 
- http://urlsap:8001/sap/public/opu/resources 
- http://urlsap:8001/sap/public/ping 
- http://urlsap:8001/sap/public/PPM/PFM/BCV
+rep/build_info.html
+rep/build_info.jsp
+run/build_info.html
+run/build_info.jsp
+rwb/version.html
+sap/bc/bsp/esh_os_service/favicon.gif
+sap/bc/bsp/sap
+sap/bc/bsp/sap/alertinbox
+sap/bc/bsp/sap/bsp_dlc_frcmp
+sap/bc/bsp/sap/bsp_veri
+sap/bc/bsp/sap/bsp_verificatio
+sap/bc/bsp/sap/bsp_wd_base
+sap/bc/bsp/sap/bspwd_basics
+sap/bc/bsp/sap/certmap
+sap/bc/bsp/sap/certreq
+sap/bc/bsp/sap/crm_bsp_frame
+sap/bc/bsp/sap/crmcmp_bpident/
+sap/bc/bsp/sap/crmcmp_brfcase
+sap/bc/bsp/sap/crmcmp_hdr
+sap/bc/bsp/sap/crmcmp_hdr_std
+sap/bc/bsp/sap/crmcmp_ic_frame
+sap/bc/bsp/sap/crm_thtmlb_util
+sap/bc/bsp/sap/crm_ui_frame
+sap/bc/bsp/sap/crm_ui_start
+sap/bc/bsp/sap/esh_sap_link
+sap/bc/bsp/sap/esh_sapgui_exe
+sap/bc/bsp/sap/graph_bsp_test
+sap/bc/bsp/sap/graph_bsp_test/Mimes
+sap/bc/bsp/sap/gsbirp
+sap/bc/bsp/sap/htmlb_samples
+sap/bc/bsp/sap/iccmp_bp_cnfirm
+sap/bc/bsp/sap/iccmp_hdr_cntnr
+sap/bc/bsp/sap/iccmp_hdr_cntnt
+sap/bc/bsp/sap/iccmp_header
+sap/bc/bsp/sap/iccmp_ssc_ll/
+sap/bc/bsp/sap/ic_frw_notify
+sap/bc/bsp/sap/it00
+sap/bc/bsp/sap/public/bc
+sap/bc/bsp/sap/public/graphics
+sap/bc/bsp/sap/sam_demo
+sap/bc/bsp/sap/sam_notifying
+sap/bc/bsp/sap/sam_sess_queue
+sap/bc/bsp/sap/sbspext_htmlb
+sap/bc/bsp/sap/sbspext_xhtmlb
+sap/bc/bsp/sap/spi_admin
+sap/bc/bsp/sap/spi_monitor
+sap/bc/bsp/sap/sxms_alertrules
+sap/bc/bsp/sap/system
+sap/bc/bsp/sap/thtmlb_scripts
+sap/bc/bsp/sap/thtmlb_styles
+sap/bc/bsp/sap/uicmp_ltx
+sap/bc/bsp/sap/xmb_bsp_log
+sap/bc/contentserver
+sap/bc/echo
+sap/bc/error
+sap/bc/FormToRfc
+sap/bc/graphics/net
+sap/bc/gui/sap/its/CERTREQ
+sap/bc/gui/sap/its/designs
+sap/bc/gui/sap/its/webgui
+sap/bc/IDoc_XML
+sap/bc/ping
+sap/bc/report
+sap/bc/soap/ici
+sap/bc/soap/rfc
+sap/bc/srt/IDoc
+sap/bc/wdvd
+sap/bc/webdynpro/sap/apb_launchpad
+sap/bc/webdynpro/sap/apb_launchpad_nwbc
+sap/bc/webdynpro/sap/apb_lpd_light_start
+sap/bc/webdynpro/sap/apb_lpd_start_url
+sap/bc/webdynpro/sap/application_exit
+sap/bc/webdynpro/sap/appl_log_trc_viewer
+sap/bc/webdynpro/sap/appl_soap_management
+sap/bc/webdynpro/sap/ccmsbi_wast_extr_testenv
+sap/bc/webdynpro/sap/cnp_light_test
+sap/bc/webdynpro/sap/configure_application
+sap/bc/webdynpro/sap/configure_component
+sap/bc/webdynpro/sap/esh_search_results.ui
+sap/bc/webdynpro/sap/esh_adm_smoketest_ui
+sap/bc/webdynpro/sap/sh_adm_smoketest_files
+sap/bc/webdynpro/sap/esh_eng_modelling
+sap/bc/webdynpro/sap/esh_admin_ui_component
+sap/bc/webdynpro/sap/wdhc_application
+sap/bc/webdynpro/sap/wd_analyze_config_appl
+sap/bc/webdynpro/sap/wd_analyze_config_comp
+sap/bc/webdynpro/sap/wd_analyze_config_user
+sap/bc/webdynpro/sap/WDR_TEST_ADOBE
+sap/bc/webdynpro/sap/WDR_TEST_EVENTS
+sap/bc/webdynpro/sap/wdr_test_popups_rt
+sap/bc/webdynpro/sap/WDR_TEST_TABLE
+sap/bc/webdynpro/sap/wdr_test_ui_elements
+sap/bc/webdynpro/sap/WDR_TEST_WINDOW_ERROR
+sap/bc/webrfc
+sap/bc/xrfc
+sap/bc/xrfc_test
+sap/es/cockpit
+sap/es/getdocument
+sap/es/opensearch
+sap/es/opensearch/description
+sap/es/opensearch/list
+sap/es/opensearch/search
+sap/es/saplink
+sap/es/search
+sap/es/redirect
+sap/crm
+sap/public/bc
+sap/public/bc/icons
+sap/public/bc/icons_rtl
+sap/public/bc/its/mimes
+sap/public/bc/its/mimes/system/SL/page/hourglass.html
+sap/public/bc/its/mobile/itsmobile00
+sap/public/bc/its/mobile/itsmobile01
+sap/public/bc/its/mobile/rfid
+sap/public/bc/its/mobile/start
+sap/public/bc/its/mobile/test
+sap/public/bc/NWDEMO_MODEL
+sap/public/bc/NW_ESH_TST_AUTO
+sap/public/bc/pictograms
+sap/public/bc/sicf_login_run
+sap/public/bc/trex
+sap/public/bc/ur
+sap/public/bc/wdtracetool
+sap/public/bc/webdynpro/adobechallenge
+sap/public/bc/webdynpro/mimes
+sap/public/bc/webdynpro/ssr
+sap/public/bc/webdynpro/viewdesigner
+sap/public/bc/webicons
+sap/public/bc/workflow
+sap/public/bc/workflow/shortcut
+sap/public/bsp/sap
+sap/public/bsp/sap/htmlb
+sap/public/bsp/sap/public
+sap/public/bsp/sap/public/bc
+sap/public/bsp/sap/public/faa
+sap/public/bsp/sap/public/graphics
+sap/public/bsp/sap/public/graphics/jnet_handler
+sap/public/bsp/sap/public/graphics/mimes
+sap/public/bsp/sap/system
+sap/public/bsp/sap/system_public
+sap/public/icf_check
+sap/public/icf_info
+sap/public/icf_info/icr_groups
+sap/public/icf_info/icr_urlprefix
+sap/public/icf_info/logon_groups
+sap/public/icf_info/urlprefix
+sap/public/icman
+sap/public/info
+sap/public/myssocntl
+sap/public/ping
+sap/webcuif
+AdminTools/
+AnalyticalReporting/
+AnalyticalReporting/AnalyticalReporting_merge_web.xml
+AnalyticalReporting/download/win32/websetup.properties
+CmcApp/logon.faces
+CrystalReports/viewrpt.cwr
+dswsbobje/services/listServices
+dswsbobje/services/BICatalog?wsdl
+InfoViewApp/
+InfoViewApp/help/en/user/html/
+InfoViewApp/listing/main.do?appKind=InfoView&service=%2FInfoViewApp%2Fcommon%2FappService.do
+sap/public/icman/ping
+sap/admin
+sap/wdisp/admin
+scripts/wgate
+sap/admin 
+sap/admin/public/index.html 
+sap/ap 
+sap/bc/abap/demo 
+sap/bc/abap/demo_apc 
+sap/bc/abap/demo_apc_pcp 
+sap/bc/abap/demo_mime 
+sap/bc/abap/demo_post 
+sap/bc/abap/docu 
+sap/bc/abap/toolsdocu 
+sap/bc/adt 
+sap/bc/apc/sap/apc_tcp_test_stateful 
+sap/bc/apc/sap/apc_tcp_test_stateless 
+sap/bc/apc_test/abap_online_com 
+sap/bc/apc_test/file 
+sap/bc/apc_test/ping 
+sap/bc/apc_test/ping_ping 
+sap/bc/apc_test/ping_pong/game 
+sap/bc/apc_test/ping_pong/player 
+sap/bc/apc_test/sapui5_test 
+sap/bc/apc_test/sohbat 
+sap/bc/apc_test/system_info 
+sap/bc/batch/event_raise 
+sap/bc/bcs/sms 
+sap/bc/bsp/ 
+sap/bc/bsp/esh_os_service/favicon.gif 
+sap/bc/bsp/ipro/editor 
+sap/bc/bsp/sap 
+sap/bc/bsp/sap/alertinbox 
+sap/bc/bsp/sap/bsp_dlc_frcmp 
+sap/bc/bsp/sap/bsp_veri 
+sap/bc/bsp/sap/bsp_verificatio 
+sap/bc/bsp/sap/bsp_wd_base 
+sap/bc/bsp/sap/bspwd_basics 
+sap/bc/bsp/sap/certmap 
+sap/bc/bsp/sap/certreq 
+sap/bc/bsp/sap/crm_bsp_frame 
+sap/bc/bsp/sap/crmcmp_bpident/ 
+sap/bc/bsp/sap/crmcmp_brfcase 
+sap/bc/bsp/sap/crmcmp_hdr 
+sap/bc/bsp/sap/crmcmp_hdr_std 
+sap/bc/bsp/sap/crmcmp_ic_frame 
+sap/bc/bsp/sap/crm_ic_ise/editor 
+sap/bc/bsp/sap/crm_thtmlb_util 
+sap/bc/bsp/sap/crm_ui_frame 
+sap/bc/bsp/sap/crm_ui_start 
+sap/bc/bsp/sap/esh_sapgui_exe 
+sap/bc/bsp/sap/esh_sap_link 
+sap/bc/bsp/sap/graph_bsp_test 
+sap/bc/bsp/sap/graph_bsp_test/Mimes 
+sap/bc/bsp/sap/gsbirp 
+sap/bc/bsp/sap/hrrcf_wd_dovru 
+sap/bc/bsp/sap/htmlb_samples 
+sap/bc/bsp/sap/iccmp_bp_cnfirm 
+sap/bc/bsp/sap/iccmp_hdr_cntnr 
+sap/bc/bsp/sap/iccmp_hdr_cntnt 
+sap/bc/bsp/sap/iccmp_header 
+sap/bc/bsp/sap/iccmp_ssc_ll/ 
+sap/bc/bsp/sap/ic_frw_notify 
+sap/bc/bsp/sap/it00 
+sap/bc/bsp/sap/it00/default.htm 
+sap/bc/bsp/sap/it00/http_client.htm 
+sap/bc/bsp/sap/it00/http_client_xml.htm 
+sap/bc/bsp/sap/public/bc 
+sap/bc/bsp/sap/public/FAA 
+sap/bc/bsp/sap/public/graphics 
+sap/bc/bsp/sap/public/sem 
+sap/bc/bsp/sap/sam_demo 
+sap/bc/bsp/sap/sam_notifying 
+sap/bc/bsp/sap/sam_sess_queue 
+sap/bc/bsp/sap/sbspext_htmlb 
+sap/bc/bsp/sap/sbspext_xhtmlb 
+sap/bc/bsp/sap/spi_admin 
+sap/bc/bsp/sap/spi_monitor 
+sap/bc/bsp/sapsrm 
+sap/bc/bsp/sapsrm/bsp_dhtml_apple 
+sap/bc/bsp/sapsrm/bsp_java_applet 
+sap/bc/bsp/sapsrm/call_sig_ctrl 
+sap/bc/bsp/sapsrm/ctlg_wrapper 
+sap/bc/bsp/sap/sxms_alertrules 
+sap/bc/bsp/sap/system 
+sap/bc/bsp/sap/thtmlb_scripts 
+sap/bc/bsp/sap/thtmlb_styles 
+sap/bc/bsp/sap/uicmp_ltx 
+sap/bc/bsp/sap/xmb_bsp_log 
+sap/bc/contentserver 
+sap/bc/docu 
+sap/bc/echo 
+sap/bc/error 
+sap/bc/FormToRfc 
+sap/bc/FormToRfc/soap 
+sap/bc/graphics/net 
+sap/bc/gui/sap/its/CERTREQ 
+sap/bc/gui/sap/its/webgui 
+sap/bc/IDoc_XML 
+sap/bc/MIDSD 
+sap/bc/Mi_host_http 
+sap/bc/MJC 
+sap/bc/MJC/ 
+sap/bc/MJC/mi_host 
+sap/bc/MJC/mi_mds 
+sap/bc/MJC/mi_service 
+sap/bc/MJC/mi_services 
+sap/bc/MY_NEW_SERV99 
+sap/bc/ping 
+sap/bc/soap/ici 
+sap/bc/soap/rfc 
+sap/bc/srt/IDoc 
+sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html? 
+sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?saml2=disabled 
+sap/bc/wdvd 
+sap/bc/wdvd/ 
+sap/bc/webdynpro 
+sap/bc/webdynpro/sap/apb_launchpad 
+sap/bc/webdynpro/sap/apb_launchpad_nwbc 
+sap/bc/webdynpro/sap/apb_lpd_light_start 
+sap/bc/webdynpro/sap/apb_lpd_start_url 
+sap/bc/webdynpro/sap/application_exit 
+sap/bc/webdynpro/sap/appl_log_trc_viewer 
+sap/bc/webdynpro/sap/appl_soap_management 
+sap/bc/webdynpro/sap/ccmsbi_wast_extr_testenv 
+sap/bc/webdynpro/sap/cnp_light_test 
+sap/bc/webdynpro/sap/configure_application 
+sap/bc/webdynpro/sap/configure_component 
+sap/bc/webdynpro/sap/esh_admin_ui_component 
+sap/bc/webdynpro/sap/esh_adm_smoketest_ui 
+sap/bc/webdynpro/sap/esh_eng_modelling 
+sap/bc/webdynpro/sap/esh_search_results.ui 
+sap/bc/webdynpro/sap/hrrcf_a_act_cnf_dovr_ui 
+sap/bc/webdynpro/sap/hrrcf_a_act_cnf_ind_ext 
+sap/bc/webdynpro/sap/hrrcf_a_act_cnf_ind_int 
+sap/bc/webdynpro/sap/hrrcf_a_appls 
+sap/bc/webdynpro/sap/hrrcf_a_applwizard 
+sap/bc/webdynpro/sap/hrrcf_a_candidate_registration 
+sap/bc/webdynpro/sap/hrrcf_a_candidate_verification 
+sap/bc/webdynpro/sap/hrrcf_a_dataoverview 
+sap/bc/webdynpro/sap/hrrcf_a_draft_applications 
+sap/bc/webdynpro/sap/hrrcf_a_new_verif_mail 
+sap/bc/webdynpro/sap/hrrcf_a_posting_apply 
+sap/bc/webdynpro/sap/hrrcf_a_psett_ext 
+sap/bc/webdynpro/sap/hrrcf_a_psett_int 
+sap/bc/webdynpro/sap/hrrcf_a_pw_via_email_extern 
+sap/bc/webdynpro/sap/hrrcf_a_pw_via_email_intern 
+sap/bc/webdynpro/sap/hrrcf_a_qa_mss 
+sap/bc/webdynpro/sap/hrrcf_a_refcode_srch 
+sap/bc/webdynpro/sap/hrrcf_a_refcode_srch_int 
+sap/bc/webdynpro/sap/hrrcf_a_req_assess 
+sap/bc/webdynpro/sap/hrrcf_a_requi_monitor 
+sap/bc/webdynpro/sap/hrrcf_a_substitution_admin 
+sap/bc/webdynpro/sap/hrrcf_a_substitution_manager 
+sap/bc/webdynpro/sap/hrrcf_a_tp_assess 
+sap/bc/webdynpro/sap/hrrcf_a_unregemp_job_search 
+sap/bc/webdynpro/sap/hrrcf_a_unreg_job_search 
+sap/bc/webdynpro/sap/hrrcf_a_unverified_cand 
+sap/bc/webdynpro/sap/sh_adm_smoketest_files 
+sap/bc/webdynpro/sap/wd_analyze_config_appl 
+sap/bc/webdynpro/sap/wd_analyze_config_comp 
+sap/bc/webdynpro/sap/wd_analyze_config_user 
+sap/bc/webdynpro/sap/wdhc_application 
+sap/bc/webdynpro/sap/WDR_TEST_ADOBE 
+sap/bc/webdynpro/sap/WDR_TEST_EVENTS 
+sap/bc/webdynpro/sap/wdr_test_popups_rt 
+sap/bc/webdynpro/sap/WDR_TEST_TABLE 
+sap/bc/webdynpro/sap/wdr_test_ui_elements 
+sap/bc/webdynpro/sap/WDR_TEST_WINDOW_ERROR 
+sap/bc/webrfc 
+sap/bc/workflow/shortcut 
+sap/bc/xrfc_test 
+sap/BSSP_SP_MAPS 
+sap/es/atk 
+sap/es/cockpit 
+sap/es/getdocument 
+sap/es/opensearch 
+sap/es/opensearch/description 
+sap/es/opensearch/list 
+sap/es/opensearch/search 
+sap/es/redirect 
+sap/es/saplink 
+sap/es/search 
+sap/gw 
+sap/gw/bep 
+sap/gw/jsonrpc 
+sap/public/bc/abap 
+sap/public/bc/abap/docu 
+sap/public/bc/abap/mime_demo 
+sap/public/bc/abap/toolsdocu 
+sap/public/bc/AR_NEWS_REDRCT 
+sap/public/bc/bpo 
+sap/public/bc/bsp 
+sap/public/bc/crm_cic_ipaddr 
+sap/public/bc/crm_cic_polling 
+sap/public/bc/dashboard 
+sap/public/bc/icf/logoff 
+sap/public/bc/icons 
+sap/public/bc/icons_rtl 
+sap/public/bc/its/designs 
+sap/public/bc/its/img 
+sap/public/bc/its/mimes 
+sap/public/bc/its/mimes/system/SL/page/hourglass.html 
+sap/public/bc/its/mobile/rfid 
+sap/public/bc/its/scripts 
+sap/public/bc/jsm 
+sap/public/bc/NWDEMO_MODEL 
+sap/public/bc/NW_ESH_TST_AUTO 
+sap/public/bc/pictograms 
+sap/public/bc/qgm 
+sap/public/bc/sec 
+sap/public/bc/sec/cdc_ext_service 
+sap/public/bc/sec/oauth2 
+sap/public/bc/sec/oauth2/client 
+sap/public/bc/sec/oauth2/client/redirect 
+sap/public/bc/sec/saml2 
+sap/public/bc/themes 
+sap/public/bc/tmp_wd_mimes 
+sap/public/bc/ui2 
+sap/public/bc/ui5_ui5 
+sap/public/bc/ui5_ui5/ILMRWC 
+sap/public/bc/uics/whitelist 
+sap/public/bc/ur 
+sap/public/bc/wdtracetool 
+sap/public/bc/webdynpro/adobechallenge 
+sap/public/bc/webdynpro/Polling 
+sap/public/bc/webdynpro/viewdesigner 
+sap/public/bc/webicons 
+sap/public/bc/workflow 
+sap/public/bc/workflow/shortcut 
+sap/public/bsp/sap/htmlb 
+sap/public/bsp/sap/public/bc 
+sap/public/bsp/sap/public/graphics 
+sap/public/bsp/sap/public/graphics/jnet_handler 
+sap/public/bsp/sap/public/graphics/mimes 
+sap/public/bsp/sap/public/ISE 
+sap/public/bsp/sap/system 
+sap/public/BusinessSuite 
+sap/public/BusinessSuite/BCV 
+sap/public/BusinessSuite/BSSP 
+sap/public/BusinessSuite/CBESH_ICONS 
+sap/public/BusinessSuite/CloCo 
+sap/public/BusinessSuite/TM 
+sap/public/BusinessSuite/TM/FlashIslands 
+sap/public/BusinessSuite/TM/Icons 
+sap/public/BusinessSuite/TM/Icons_rtl 
+sap/public/E2EALERT 
+sap/public/ES 
+sap/public/icf_check 
+sap/public/icf_info 
+sap/public/icf_info/icr_groups 
+sap/public/icf_info/icr_urlprefix 
+sap/public/icf_info/logon_groups 
+sap/public/icf_info/urlprefix 
+sap/public/icman 
+sap/public/icman/ping 
+sap/public/info 
+sap/public/myssocntl 
+sap/public/opu 
+sap/public/opu/resources 
+sap/public/ping 
+sap/public/PPM/PFM/BCV
